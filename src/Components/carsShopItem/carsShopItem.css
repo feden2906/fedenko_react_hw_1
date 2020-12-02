@@ -1,0 +1,19 @@
+h4 {
+    margin: 5px 20px;
+}
+
+h3 {
+    text-align: center;
+    margin-left: -10px;
+}
+
+.itemCar {
+    width: 250px;
+    background-color: lightsalmon;
+    margin: 15px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+.itemCar:hover {
+    background-color: salmon;
+}

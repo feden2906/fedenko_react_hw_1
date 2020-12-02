@@ -1,0 +1,14 @@
+.shopWrapperCar {
+    background: gainsboro;
+    padding: 15px 0 25px;
+}
+.flexCar {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: auto;
+}
+h2 {
+    margin-left: 10%;
+}
